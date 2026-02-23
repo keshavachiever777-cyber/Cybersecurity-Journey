@@ -23,9 +23,10 @@
 ## Bullet Points:
  * Support team members help users by responding and resolving their issues based on amount of time in SLA's and KPI's help keep track of the efficiency and effectiveness of the team members. 
  * AI tools help spport team by resolving small and common issues of users, creating and assigning tickets for various issues to the right techician based on expertise and availaibility.
-
-** ## Important terms: SLA, KPI, TIcketing, AI tools
+   
+ ## Important terms: SLA, KPI, TIcketing, AI tools
 
 * ## Screenshots: ![Cisco Progress Screenshot](./images/help-desk_progress(1).png)![Cisco Progress Screenshot](./images/help-desk_progress(2).png)
+
 
 
