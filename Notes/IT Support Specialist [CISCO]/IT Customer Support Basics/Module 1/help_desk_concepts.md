@@ -26,9 +26,8 @@
 
 ** ## Important terms: SLA, KPI, TIcketing, AI tools
 
-* ## Screenshots:
-* ![Cisco Progress Screenshot](./images/help-desk_progress(1).png)
-* ![Cisco Progress Screenshot](./images/help-desk_progress(2).png)
+* ## Screenshots:* ![Cisco Progress Screenshot](./images/help-desk_progress(1).png) * ![Cisco Progress Screenshot](./images/help-desk_progress(2).png)
+
 
 
 
